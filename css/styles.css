@@ -96,7 +96,7 @@ h1, h2, h3 {
 .project-img {
 	width: 100%;
 	display: block;
-	object-fit: cover;
+	object-fit: contain;
 }
 
 /* Image Hover Effect */
