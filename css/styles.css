@@ -39,7 +39,7 @@ input:focus, textarea:focus {
 }
 
 .portfolio-content {
-	line-height: 2;
+	line-height: normal;
 	color: #555;
 }
 
