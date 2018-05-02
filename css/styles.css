@@ -39,7 +39,7 @@ input:focus, textarea:focus {
 }
 
 .portfolio-content {
-	line-height: 2;
+	line-height: 20px;
 	color: #555;
 }
 
@@ -94,9 +94,10 @@ h1, h2, h3 {
 }
 
 .project-img {
-	width: 100%;
 	display: block;
 	object-fit: contain;
+	width: 1200px;
+	align: center;
 }
 
 /* Image Hover Effect */
