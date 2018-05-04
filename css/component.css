@@ -48,7 +48,7 @@
 /* Effect 2 */
 .hi-icon-effect-2 .hi-icon {
 	color: #fff;
-	box-shadow: 0 0 0 3px #cccccc;
+	box-shadow: 0 0 0 1px #cccccc;
 	-webkit-transition: color 0.3s;
 	-moz-transition: color 0.3s;
 	transition: color 0.3s;
